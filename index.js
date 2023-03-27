@@ -4,6 +4,7 @@ function scuberGreetingForFeet(){
 
 function ternaryCheckCity(){
   // Write your code here!
+  abbcdhjhjjkjjk
 }
 
 function switchOnCharmFromTip(){
